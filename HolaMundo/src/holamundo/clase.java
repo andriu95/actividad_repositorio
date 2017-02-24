@@ -14,4 +14,5 @@ public class clase {
     public clase(){
         a=7;
     }
+    public void modificacion_actividad1(){}
 }
